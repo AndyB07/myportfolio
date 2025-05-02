@@ -5,7 +5,7 @@
   "Welcome to my portfolio! I'm a software development student.";
   
   let i = 0;
-  const speed = 50; // speed in ms
+  const speed = 50; 
 
   function typeWriter() {
     if (i < text.length) {
